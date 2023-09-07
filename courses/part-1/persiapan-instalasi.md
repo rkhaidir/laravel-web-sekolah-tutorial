@@ -19,7 +19,7 @@ Laravel memiliki beberapa persyaratan sistem yang harus dipenuhi agar bisa berja
   ![MySQL](../../assets/part-1/MySQL.png)
 
 * [Laragon](https://laragon.org/download/index.html) \
-  Laragon akan digunakan lingkungan pengembangan, pada laragon sendiri sudah termasuk paket PHP versi 8, dan MySQL.\
+  Laragon akan digunakan pada lingkungan pengembangan, laragon sendiri sudah termasuk paket PHP versi 8, dan MySQL.\
   ![Laragon](../../assets/part-1/laragon.png)
 
 * [Composer](https://getcomposer.org/) \
