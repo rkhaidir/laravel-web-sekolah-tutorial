@@ -10,11 +10,11 @@
   * [Pengenalan Laravel](courses/part-1/pengenalan-laravel.md)
   * [Persiapan dan Instalasi Laravel](courses/part-1/persiapan-instalasi.md)
 * **Arsitektur Laravel**
-  * [Konsep MVC di Laravel]()
-  * [Routing di Laravel]()
-  * [Controller di Laravel]()
-  * [Model di Laravel]()
-  * [View di Laravel]()
+  * [Konsep MVC di Laravel](courses/part-2/konsep-mvc.md)
+  * [Routing di Laravel](courses/part-2/routing.md)
+  * [Controller di Laravel](courses/part-2/controller.md)
+  * [Model di Laravel](courses/part-2/model.md)
+  * [View di Laravel](courses/part-2/view.md)
 * **Route dan Controller**
   * [Route]()
   * [Controller]()

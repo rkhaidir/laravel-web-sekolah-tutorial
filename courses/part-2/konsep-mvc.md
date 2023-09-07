@@ -20,7 +20,7 @@ MVC atau kepanjagannya *Model View Controller* merupakan sebuah pola pengembagan
 MVC di laravel secara konsep tidak jauh berbeda dengan konsep MVC secara umum. Setiap komponen di MVC telah disediakan folder khusus di project laravel.
 1. Controller berada di folder ```app/Http/Controllers```
 2. View berada di folder ```resources/views```
-3. Model berada di folder ```app\Models```
+3. Model berada di folder ```app/Models```
 
 ![Folder](../../assets/part-2/folder.jpg)
 
